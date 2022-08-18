@@ -28,4 +28,12 @@ programming."
 
 Titus Winters, Software Engineering at Google
 
-Comentário: 
+Comentário: Do meu ponto de vista a programação
+é uma matéria essencial para diversos cursos,
+principalmente para engenharia, independente da 
+área de atuação do engenheiro, pois,
+ela serve para aprimorar suas habilidades, entre
+elas desenvolver soluções lógicas para problemas, 
+podendo até substituir atividades manuais,
+o que torna essas tarefas mais práticas, como a
+realização de cálculos.
