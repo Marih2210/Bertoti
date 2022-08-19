@@ -36,4 +36,12 @@ ela serve para aprimorar suas habilidades, entre
 elas desenvolver soluções lógicas para problemas, 
 podendo até substituir atividades manuais,
 o que torna essas tarefas mais práticas, como a
-realização de cálculos.
+realização de cálculos.A Engenharia de Software 
+em si tem como objetivo moldar indivíduos não
+somente para aprender linguagens de programação,
+mas usá-las de base para desenvolvimentos futuros,
+ou seja, capacita as pessoas com a utilização de 
+ferramentas, a ciência por trás das técnicas, para
+então poderem chegar a um objetivo predeterminado,
+visando sempre o progresso, algo que possa
+influenciar no futuro.
