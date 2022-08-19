@@ -1,3 +1,5 @@
+<h5> Texto do Engenheiro </h5>
+
 "We see three critical differences between 
 programming and software engineering: time, 
 scale, and the trade-offs at play. On a 
@@ -45,3 +47,23 @@ ferramentas, a ciência por trás das técnicas, para
 então poderem chegar a um objetivo predeterminado,
 visando sempre o progresso, algo que possa
 influenciar no futuro.
+
+<h5> Trade Off </h5>
+
+Trade Off nada mais é do que se encontrar em uma
+situação que se deve escolher entre ideias,
+analisando com cuidado cada uma delas para então
+chegar em um consenso de qual se encaixa melhor
+no contexto. Com base no desenvolvimento do API o
+que se encaixaria dentro da ideia de Trade Off 
+seriam os métodos a serem utilizados no 
+desenvolvimento do projeto, ou seja, selecionar
+uma plataforma que seja mais adequada para o
+desenvolvimento de uma atividade. Por exemplo no
+desenvolvimento do backlog analisamos o melhor
+aplicativo para criar ele, entre o Canva e o Figma,
+selecionamos o Canva, por ser mais rápido e fácil
+de manusear, portanto analisamos a situação que 
+traria mais vantagens e desvantagens no momento e 
+chegamos a uma decisão.
+
