@@ -67,3 +67,19 @@ de manusear, portanto analisamos a situação que
 traria mais vantagens e desvantagens no momento e 
 chegamos a uma decisão.
 
+<h5> Ciclo de Vida do Desenvolvimento de Software </h5>
+
+Situação: Uma empresa necessita de um sistema para
+organizar sua área de TI, para isso é necessário
+que ele atenda às necessidades dos clientes, que
+necessitam de marcar consultas, além de terem um
+prazo de 1 mês para realizarem o pagamento das
+consultas tidas no mês.
+
+Problemas: - Falta de organização;
+ - Pagamentos fora do prazo;e
+ - Clientes marcando consultas nas mesmas datas.
+ 
+Requisitos Funcionais:
+
+Requisitos não Funcionais:
