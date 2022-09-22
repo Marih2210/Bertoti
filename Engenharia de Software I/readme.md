@@ -1,4 +1,4 @@
-<h5> Texto do Engenheiro </h5>
+<h3> Texto do Engenheiro </h3>
 
 "We see three critical differences between 
 programming and software engineering: time, 
@@ -48,7 +48,7 @@ então poderem chegar a um objetivo predeterminado,
 visando sempre o progresso, algo que possa
 influenciar no futuro.
 
-<h5> Trade Off </h5>
+<h3> Trade Off </h3>
 
 Trade Off nada mais é do que se encontrar em uma
 situação que se deve escolher entre ideias,
@@ -67,7 +67,7 @@ de manusear, portanto analisamos a situação que
 traria mais vantagens e desvantagens no momento e 
 chegamos a uma decisão.
 
-<h5> Ciclo de Vida do Desenvolvimento de Software </h5>
+<h3> Ciclo de Vida do Desenvolvimento de Software </h3>
 
 Situação: Uma empresa necessita de um sistema para
 organizar sua área de TI, para isso é necessário
