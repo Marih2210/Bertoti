@@ -1,4 +1,4 @@
-<h3> Texto do Engenheiro </h3>
+<h2> Texto do Engenheiro (18/08/2022) </h2>
 
 "We see three critical differences between 
 programming and software engineering: time, 
@@ -30,10 +30,10 @@ programming."
 
 Titus Winters, Software Engineering at Google
 
-Comentário: Do meu ponto de vista a programação
-é uma matéria essencial para diversos cursos,
-principalmente para engenharia, independente da 
-área de atuação do engenheiro, pois,
+<h4>Comentário:</h4> Do meu ponto de vista a 
+programação é uma matéria essencial para 
+diversos cursos, principalmente para engenharia,
+independente da área de atuação do engenheiro, pois,
 ela serve para aprimorar suas habilidades, entre
 elas desenvolver soluções lógicas para problemas, 
 podendo até substituir atividades manuais,
@@ -48,7 +48,7 @@ então poderem chegar a um objetivo predeterminado,
 visando sempre o progresso, algo que possa
 influenciar no futuro.
 
-<h3> Trade Off </h3>
+<h2> Trade Off - API (19/08/2022)</h2>
 
 Trade Off nada mais é do que se encontrar em uma
 situação que se deve escolher entre ideias,
@@ -67,19 +67,33 @@ de manusear, portanto analisamos a situação que
 traria mais vantagens e desvantagens no momento e 
 chegamos a uma decisão.
 
-<h3> Ciclo de Vida do Desenvolvimento de Software </h3>
+<h2> Atividade de Requisito - Ciclo de Vida do Desenvolvimento de Software (25/08/2022) </h2>
 
-Situação: Uma empresa necessita de um sistema para
-organizar sua área de TI, para isso é necessário
-que ele atenda às necessidades dos clientes, que
-necessitam de marcar consultas, além de terem um
-prazo de 1 mês para realizarem o pagamento das
-consultas tidas no mês.
-
-Problemas: - Falta de organização;
- - Pagamentos fora do prazo;e
- - Clientes marcando consultas nas mesmas datas.
+Situação: Uma empresa de odonotologia necessita
+de um sistema para marcar consultas e receber o 
+pagamento das mesmas.
  
-Requisitos Funcionais:
+<h4>Requisitos Funcionais:</h4>
 
-Requisitos não Funcionais:
+- Cadastramento de clientes: em que o cliente
+poderá se cadastrar passando seus dados, como
+Nome, Idade, Sexo, RG, CPF;
+- Cadastramento de Consultas: em que o cliente
+deverá passar dados para marcar uma consulta,
+como Número do Protocolo, Tipo de Consulta e a
+Data da Consulta;
+- Efetivação de pagamento: neste tópico o cliente 
+deverá passar seus dados bancários, como o Método
+de Pagamento e se optar pelo Método Cartão passar
+os Dados do Cartão, como Número de Conta e se o
+pagamento será feito em Débito ou Crédito, caso o
+pagamento seja feito por Boleto ou PIX o cliente
+terá uma data limite para realizá-lo;
+
+<h4>Diagrama de Casos de Uso:</h4>
+
+<h4>Requisitos Não Funcionais:</h4>
+
+- Cadastrar os clientes;
+- Cadastrar as consultas;
+- Efetivar o pagamento;
