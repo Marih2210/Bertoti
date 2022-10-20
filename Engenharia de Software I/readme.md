@@ -92,7 +92,7 @@ terá uma data limite para realizá-lo;
 
 <h4>Diagrama de Casos de Uso:</h4>
 
-<img src = "Imagens/Diagrama de Casos de Uso".PNG">
+<img src = "Imagens/Diagrama de Casos de Uso.PNG">
 
 <h4>Requisitos Não Funcionais:</h4>
 
