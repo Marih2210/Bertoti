@@ -69,7 +69,7 @@ chegamos a uma decisão.
 
 <h2> Atividade de Requisito - Ciclo de Vida do Desenvolvimento de Software (25/08/2022) </h2>
 
-<h4>Situação:</h4> Uma empresa de odonotologia necessita
+<h4>Situação:</h4> Uma empresa de odontologia necessita
 de um sistema para marcar consultas e receber o 
 pagamento das mesmas.
  
