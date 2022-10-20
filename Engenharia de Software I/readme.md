@@ -96,8 +96,8 @@ terá uma data limite para realizá-lo;
 
 <h4>Requisitos Não Funcionais:</h4>
 
-- Cadastrar os clientes;
-- Cadastrar as consultas;
-- Efetivar o pagamento;
+- Usabilidade;
+- Transparência;
+- Plataforma Intuitiva e Flexível;
 
 <h4>Diagrama de Classes UML:</h4>
