@@ -99,3 +99,5 @@ terá uma data limite para realizá-lo;
 - Cadastrar os clientes;
 - Cadastrar as consultas;
 - Efetivar o pagamento;
+
+<h4>Diagrama de Classes UML:</h4>
