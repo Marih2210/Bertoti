@@ -75,7 +75,7 @@ pagamento das mesmas.
  
 <h4>Requisitos Funcionais:</h4>
 
-- Cadastramento de clientes: em que o cliente
+- Cadastramento de Clientes: em que o cliente
 poderá se cadastrar passando seus dados, como
 Nome, Idade, Sexo, RG, CPF;
 - Cadastramento de Consultas: em que o cliente
