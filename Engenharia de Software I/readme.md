@@ -101,3 +101,5 @@ terá uma data limite para realizá-lo;
 - Plataforma Intuitiva e Flexível;
 
 <h4>Diagrama de Classes UML:</h4>
+
+<img src = "Imagens/DiagramaDeClasses.JPG">
