@@ -70,25 +70,18 @@ chegamos a uma decisão.
 <h2> Atividade de Requisito - Ciclo de Vida do Desenvolvimento de Software (25/08/2022) </h2>
 
 <h4>Situação:</h4> Uma empresa de odontologia necessita
-de um sistema para marcar consultas e receber o 
-pagamento das mesmas.
+de um sistema para o Cadastro de Clientes, onde ela poderá
+encontrá-lo por seu Nome ou pelos atributos contidos 
+na Consulta, além de poder comparar dados entre consultas.
  
 <h4>Requisitos Funcionais:</h4>
 
-- Cadastramento de Clientes: em que o cliente
-poderá se cadastrar passando seus dados, como
-Nome, Idade, Sexo, RG, CPF;
-- Cadastramento de Consultas: em que o cliente
-deverá passar dados para marcar uma consulta,
-como Número do Protocolo, Tipo de Consulta e a
-Data da Consulta;
-- Efetivação de pagamento: neste tópico o cliente 
-deverá passar seus dados bancários, como o Método
-de Pagamento e se optar pelo Método Cartão passar
-os Dados do Cartão, como Número de Conta e se o
-pagamento será feito em Débito ou Crédito, caso o
-pagamento seja feito por Boleto ou PIX o cliente
-terá uma data limite para realizá-lo;
+- Cadastramento de Clientes: esse tópico aborda o 
+cadastramento do cliente, onde teremos dados, como Nome
+e Consulta;
+- Cadastramento de Consultas: tópico no qual deve-se
+passar dados para uma consulta, como Número do Protocolo, 
+Tipo de Consulta, Data da Consulta, Idade, Sexo, RG e CPF;
 
 <h4>Diagrama de Casos de Uso:</h4>
 
