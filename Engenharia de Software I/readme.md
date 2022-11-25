@@ -99,7 +99,7 @@ Tipo de Consulta, Data da Consulta, Idade, Sexo, RG e CPF;
 
 <h4>Classe Cliente:</h4>
 
-<img src = "Imagens/ClasseCliente.PNG">
+<img src = "Imagens/ClasseCliente.png">
 
 <h4>Classe Consulta:</h4>
 
