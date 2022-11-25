@@ -96,3 +96,20 @@ Tipo de Consulta, Data da Consulta, Idade, Sexo, RG e CPF;
 <h4>Diagrama de Classes UML:</h4>
 
 <img src = "Imagens/DiagramadeClasses.png">
+
+<h4>Classe Cliente:</h4>
+
+<img src = "Imagens/ClasseCliente.PNG">
+
+<h4>Classe Consulta:</h4>
+
+<img src = "Imagens/ClasseConsultaI.PNG">
+<img src = "Imagens/ClasseConsultaII.PNG">
+
+<h4>Classe Sistema:</h4>
+
+<img src = "Imagens/ClasseSistema.PNG">
+
+<h4>Classe Teste:</h4>
+
+<img src = "Imagens/ClasseTeste.PNG">
