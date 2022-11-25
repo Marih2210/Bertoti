@@ -67,7 +67,7 @@ de manusear, portanto analisamos a situação que
 traria mais vantagens e desvantagens no momento e 
 chegamos a uma decisão.
 
-<h2> Atividade de Requisito - Ciclo de Vida do Desenvolvimento de Software (25/08/2022) </h2>
+<h2> Atividade de Requisito - Ciclo de Vida do Desenvolvimento de Software </h2>
 
 <h4>Situação:</h4> Uma empresa de odontologia necessita
 de um sistema para o Cadastro de Clientes, onde ela poderá
