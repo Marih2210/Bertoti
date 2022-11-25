@@ -1,4 +1,4 @@
-<h2> Texto do Engenheiro (18/08/2022) </h2>
+<h2> Texto do Engenheiro </h2>
 
 "We see three critical differences between 
 programming and software engineering: time, 
@@ -48,7 +48,7 @@ então poderem chegar a um objetivo predeterminado,
 visando sempre o progresso, algo que possa
 influenciar no futuro.
 
-<h2> Trade Off - API (19/08/2022)</h2>
+<h2> Trade Off - API </h2>
 
 Trade Off nada mais é do que se encontrar em uma
 situação que se deve escolher entre ideias,
