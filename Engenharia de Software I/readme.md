@@ -101,17 +101,17 @@ Tipo de Consulta, Data da Consulta, Idade, Sexo, RG e CPF;
 
 <h4>Classe Cliente:</h4><br/>
 
-<img src = "Imagens/ClasseCliente.png">
+<img src = "Imagens/ClasseCliente.png"><br/>
 
-<h4>Classe Consulta:</h4>
+<h4>Classe Consulta:</h4><br/>
 
 <img src = "Imagens/ClasseConsultaI.PNG">
-<img src = "Imagens/ClasseConsultaII.PNG">
+<img src = "Imagens/ClasseConsultaII.PNG"><br/>
 
-<h4>Classe Sistema:</h4>
+<h4>Classe Sistema:</h4><br/>
 
-<img src = "Imagens/ClasseSistema.PNG">
+<img src = "Imagens/ClasseSistema.PNG"><br/>
 
-<h4>Classe Teste:</h4>
+<h4>Classe Teste:</h4><br/>
 
 <img src = "Imagens/ClasseTeste.PNG">
