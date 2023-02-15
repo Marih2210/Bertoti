@@ -1,4 +1,4 @@
-<h2> Avaliação Heuristica GUI </h2>
+<h2> Avaliação Heuristica - GUI </h2>
 
 "We see three critical differences between 
 programming and software engineering: time, 
