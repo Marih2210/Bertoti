@@ -26,7 +26,4 @@
 <img src = "Imagens/heuristica08.png"><br>
 
 <h3> Imagem 09: </h3><br>
-<img src = "Imagens/heuristica09.png"><br>
-
-<h3> Imagem 10: </h3><br>
 <img src = "Imagens/heuristica10.png"><br>
