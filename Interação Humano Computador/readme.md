@@ -7,7 +7,7 @@
 <img src = "Imagens/heuristica02.png"><br>
 
 <h3> Heurística 02: </h3><br>
-<img src = "Imagens/heuristica03.png"><br>
+<img src = "Imagens/heuristica03MinisterioAgricultura.png"><br>
 
 <h3> Heurística 02: </h3><br>
 <img src = "Imagens/heuristica04.png"><br>
