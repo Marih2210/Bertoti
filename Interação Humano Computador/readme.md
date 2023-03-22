@@ -20,6 +20,7 @@
 <h3> Imagem 05: </h3><br>
 <img src = "Imagens/heuristica05.png"><br>
 <img src = "Imagens/heuristica05.1.png"><br>
+<img src = "Imagens/heuristica05.2.png"><br>
 
 <h3> Imagem 06: </h3><br>
 <img src = "Imagens/heuristica06.png"><br>
