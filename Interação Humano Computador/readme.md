@@ -55,15 +55,17 @@ O usuário não tem obrigação de decorar qual foi o caminho que ele fez pra ch
 <h4> Imagem 01</h4><br>
 <img src = "Imagens/heuristica08.png"><br>
 <h4> Imagem 02</h4><br>
-<img src = "Imagens/heuristica08.1.png"><br>
-Informações extras atrapalham. Toda informação extra que você deixar pro seu usuário pode na verdade adicionar mais uma dúvida, ou seja, deixe o seu layout e o conteúdo o mais simples e direto possível. Um app que gosta muito dessa heurística é o da Nubank. Pra gerar o boleto de pagamento da sua fatura só são necessárias duas telas e elas são bem simples e realmente objetivas, é possível observar isso na "Imagem 02".<br>
+<img src = "Imagens/heuristica08.1.PNG"><br>
+Informações extras atrapalham. Toda informação extra que você deixar pro seu usuário pode na verdade adicionar mais uma dúvida, ou seja, deixe o seu layout e o conteúdo o mais simples e direto possível. Um app que gosta muito dessa heurística é o da Nubank. Pra gerar o boleto de pagamento da sua fatura só são necessárias duas telas e elas são bem simples e realmente objetivas, é possível observar isso na "Imagem 02". Em contrapartida o aplicativo e o site da Americanas são repletos de elementos desnecessários na tela, é possível analisar isso na "Imagem 01"<br>
 
 <h3> Heurística 09: Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</h3><br>
 <h4> Imagem 01</h4><br>
 <img src = "Imagens/heuristica09.1.png"><br>
+As mensagens de erros tem que ser claras e próximas do conteúdo ou ação que causou o erro. No formulário de cadastro do Spotify, caso você não preencha os dados necessários ele deixa bem claro quais campos estão faltando, com um mensagem clara e objetiva. É possível analisar isso na imagem "Imagem 01"
 
 <h3> Heurística 10: Ajuda e documentação</h3><br>
 <h4> Imagem 01</h4><br>
 <img src = "Imagens/heuristica10.png"><br>
 <h4> Imagem 02</h4><br>
 <img src = "Imagens/heuristica10.1.png"><br>
+Implementar documentação e sistema de ajuda sempre é complicado e muitos usuários têm o costume de ignorar ambos mas, se for realmente necessário, deixe a documentação próxima do usuário e do elemento ou ação que tenha necessidade de uma explicação mais detalhada. Na "Imagem 01" é possível analisar a descrição do significado de cada símbolo, deixando bem explicíto o que cada um representa. Por exemplo, no formulário de pagamento do Walmart tem um campo pra preencher o código de segurança do cartão. Como não é algo muito óbvio, tem uma imagem próxima ao campo mostrando onde fica o código de segurança do cartão. Essa é uma boa forma de fazer uma documentação adequada, observe na "Imagem 02".
