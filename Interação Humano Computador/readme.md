@@ -1,7 +1,8 @@
 <h2> Avaliação Heuristica GUI </h2>
 
-<h3> Imagem 01: </h3><br>
+<h3> Heurística 01 : Visibilidade de qual estado estamos no sistema</h3><br>
 <img src = "Imagens/heuristica01.png"><br>
+<img src = "Imagens/heuristica01.1.png"><br>
 
 <h3> Imagem 02: </h3><br>
 <img src = "Imagens/heuristica02.png"><br>
