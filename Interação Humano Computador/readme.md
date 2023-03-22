@@ -28,31 +28,35 @@ Nesta heurística, a preocupação é passar para o usuário a liberdade de ele 
 <img src = "Imagens/heuristica04.1.png"><br>
 <h4> Imagem 02</h4><br>
 <img src = "Imagens/heuristica04.2.png"><br>
-É importante manter a consistência e padrão visual (texto, cor, desenho do elemento, som e etc). Na página do Mercado Livre e da Shopee, "Imagem 01" e "Imagem 02" respectivamente, temos um padrão de páginas de vendas de produtos, onde temos a consistência do padrão visual, onde encontramos em ambos, o carrinho de compras localizado na parte superior direita e a cor de ambos os sites mantem um padrão. Outro exemplo, no fórum GUJ(Grupo de usuários Java), quando vamos responder um post, o botão para enviar a resposta sempre é da mesma cor, tamanho e texto. O elemento para cancelar a resposta sempre tem seus padrões, podemos observar isso na "Imagem 03".
+É importante manter a consistência e padrão visual (texto, cor, desenho do elemento, som e etc). Na página do Mercado Livre e da Shopee, "Imagem 01" e "Imagem 02" respectivamente, temos um padrão de páginas de vendas de produtos, onde temos a consistência do padrão visual, onde encontramos em ambos, o carrinho de compras localizado na parte superior direita e a cor de ambos os sites mantem um padrão. Outro exemplo, no fórum GUJ(Grupo de usuários Java), quando vamos responder um post, o botão para enviar a resposta sempre é da mesma cor, tamanho e texto. O elemento para cancelar a resposta sempre tem seus padrões, podemos observar isso na "Imagem 03". <br>
 
 <h3> Heurística 05: Prevenções de erros</h3><br>
 <h4> Imagem 01</h4><br>
 <img src = "Imagens/heuristica05.1.png"><br>
 <h4> Imagem 02</h4><br>
 <img src = "Imagens/heuristica05.2.png"><br>
+Não é uma boa ideia deixar seu usuário errar sem explicar previamente o motivo do erro. O bom é tentar criar uma interface que permite o usuário não errar. Por exemplo, a busca do Google faz isso de uma forma muito inteligente. Ele já entrega algumas sugestões no momento da nossa busca, até ao escrever a busca de maneira errada ele realiza a busca e pergunta se estamos procurando outra informação com a ortografia correta ou com dados mais completos, pode-se observar isso na "Imagem 01" e "Imagem 02".<br>
 
 <h3> Heurística 06: Reconhecimento em vez de memorização</h3><br>
 <h4> Imagem 01</h4><br>
 <img src = "Imagens/heuristica06.png"><br>
 <h4> Imagem 02</h4><br>
 <img src = "Imagens/heuristica06.1.png"><br>
+O usuário não tem obrigação de decorar qual foi o caminho que ele fez pra chegar até a página.Por exemplo, "Imagem 01" e "Imagem 02", quando você entra em um produto do site da Locaweb é disponibilizado o caminho que você fez pra chegar até ele. Além do site Hippie Artesanatos, que deixa uma navbar super clara e interativa para o usuário encontrar o produto que deseja. <br>
 
 <h3> Heurística 07: Flexibilidade e eficiência de uso</h3><br>
 <h4> Imagem 01</h4><br>
 <img src = "Imagens/heuristica07.png"><br>
 <h4> Imagem 02</h4><br>
 <img src = "Imagens/heuristica07.1.png"><br>
+É importante deixar uma experiência boa com seu sistema desde o usuário mais leigo até o mais avançado. Por exemplo, na "Imagem 02", dentro do Trello quando você está com o foco em um cartão você pode utilizar o mouse para navegar em outros cartões, as teclas direcionais (setas pra cima e pra baixo) ou as letras j (para baixo) e k (para cima). Teclas que são por sua vez utilizadas no VIM, editor de texto famoso entre os desenvolvedores. Outra interface que é repleta de atalhos de teclado é o Visual Studio Code, "Imagem 01". No exemplo temos uma extensão que roda códigos com diversas linguagens através do atalho "Ctrl" + "Alt" + "N"<br>
 
 <h3> Heurística 08: Estética e design minimalista</h3><br>
 <h4> Imagem 01</h4><br>
 <img src = "Imagens/heuristica08.png"><br>
 <h4> Imagem 02</h4><br>
 <img src = "Imagens/heuristica08.1.png"><br>
+Informações extras atrapalham. Toda informação extra que você deixar pro seu usuário pode na verdade adicionar mais uma dúvida, ou seja, deixe o seu layout e o conteúdo o mais simples e direto possível. Um app que gosta muito dessa heurística é o da Nubank. Pra gerar o boleto de pagamento da sua fatura só são necessárias duas telas e elas são bem simples e realmente objetivas, é possível observar isso na "Imagem 02".<br>
 
 <h3> Heurística 09: Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</h3><br>
 <h4> Imagem 01</h4><br>
