@@ -17,7 +17,7 @@
         <td>Observer</td>
         <td>Alto acoplamento</td>
         <td>Permite definir um mecanismo de assinatura para notificar vários objetos sobre quaisquer eventos que ocorram com o objeto que eles estão observando</td>
-        <td>Evita o Alto acoplamento e torna o código baixo acoplado, evitando que fiquem de certo modo indistinguíveis<td>
+        <td>Evita o Alto acoplamento e torna o código baixo acoplado, evitando que fiquem de certo modo indistinguíveis</td>
         <td>Usado em Java para GUI, MVC, Tratamento de eventos, Padrões de designer, Gerenciamento de dados, etc</td>
     </tr>
     <tr>
