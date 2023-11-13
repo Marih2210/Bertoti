@@ -11,7 +11,7 @@
         <td>Herança</td>
         <td>Encapsular uma familia de algoritmos e tornar intercambiável através de polimorfismo</td>
         <td>Herança que duplica código</td>
-        <td>Usado em Java para Ordenação de coleções, Processamento de arquivos, Algoritmos de criptografia, Comportamento de validação, Implementação de algoritmos complexos, etc</td>
+        <td>Usado em Java no Comparable, Ordenação de coleções, Processamento de arquivos, Algoritmos de criptografia, Comportamento de validação, Implementação de algoritmos complexos, etc</td>
     </tr>
     <tr>
         <td>Observer</td>
@@ -25,7 +25,7 @@
         <td>Código de grande complexidade, difícil manutenção</td>
         <td>Usado quando é necessário implementar uma estrutura de objeto semelhante a uma árvore</td>
         <td>Evita a duplicação de código, usando o polimorfismo, e usa recursão, o que é essencial para a estrura em árvore, para separar o problema em partes, e resolve cada parte chamando uma cópia de si mesma.</td>
-        <td>Usado em Java para interfaces GUI com switch, para criar uma estrutura hierárquica de objetos de maneira que os objetos individuais e compostos possam ser tratados de maneira uniforme.</td>
+        <td>Usado em Java para interfaces GUI com Swing, para criar uma estrutura hierárquica de objetos de maneira que os objetos individuais e compostos possam ser tratados de maneira uniforme.</td>
     </tr>
     <tr>
         <td>Facade</td>
